@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PartsUnlimited.Models
 {
+    //Prueba commit 1 f1
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }

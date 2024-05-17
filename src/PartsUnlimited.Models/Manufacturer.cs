@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //Cambio 
+    //Cambio nuevo commit 2 f2
     public class Manufacturer
     {
         public int ManufacturerId { get; set; }
