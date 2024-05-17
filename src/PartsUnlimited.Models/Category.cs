@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //Commit 2 F2
     public class Category
     {
         public int CategoryId { get; set; }
